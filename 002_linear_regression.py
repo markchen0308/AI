@@ -45,7 +45,7 @@ for step in range(loop_number+1):
             plt.show()
         else:
             plt.show(False)
-            plt.pause(0.1)#delay 0.11 second
+            #plt.pause(0.1)#delay 0.11 second
 
        
 
